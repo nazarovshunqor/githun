@@ -89,3 +89,25 @@
 
 
 // `` bunday elgi bo'ganda biz textni ichiga o'zgaruvchanni ${} ichidan yozib ketsak bo'ladi
+
+// console.log(5 + 5);
+// console.log(5 - 5);
+// console.log(5 / 5);
+// console.log(5 * 5);
+
+// % bu bizga qoldiqqi chiqarib beradi
+
+
+
+// const x = 15;
+// const y = 9;
+
+// console.log(x % y);
+
+// == bizda bu tenglikni bildiradi
+// == bizda faqat znacheyinani tekshiradi
+// === tenglik ham ma'lumot turin ham znacheniyani tekshiradi
+
+// && bunda bizaga to'gri chiqishi uchun bizda hammasi to'g'ri bo'lishi kerak
+// || bunda bizga to'g'ri chiqshi uchun bittasi to'g'ri bo'lsa bo'ldi
+// agar o'zgaruvchanni oldida ! bu ishora bo'lsa u uni false bo'lsa true, true bo'lsa false qb beradi
